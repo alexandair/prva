@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Attach to PowerShell Functions",
+      "name": "Attach to PowerShell Functions (prva)",
       "type": "PowerShell",
       "request": "attach",
       "customPipeName": "AzureFunctionsPSWorker",
